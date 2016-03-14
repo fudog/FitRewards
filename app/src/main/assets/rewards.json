@@ -1,0 +1,5 @@
+[
+  {"RewardId":"1", "RewardName":"Apple", "RewardCalorie":"100"},
+  {"RewardId":"2", "RewardName":"Banana", "RewardCalorie":"200"},
+  {"RewardId":"3", "RewardName":"Pear", "RewardCalorie":"300"}
+]
